@@ -12,7 +12,7 @@
 
 Act starter is the simplest config you can have to start a project with
 [Act](https://github.com/joaomilho/act). It doesn't cover advanced usages or
-production builds. If your looking for other setups, like importing css and
+production builds. If you're looking for other setups, like importing css and
 images or hot module replacement (hmr), check the
 [examples](http://lulk.in/act/docs/examples.html).
 
