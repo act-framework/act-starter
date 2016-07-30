@@ -1,4 +1,4 @@
-import main from '@act/main'
+import main from '@act/hmr'
 import value from '@act/main/processes/value'
 
 const view = (name) => (
@@ -8,4 +8,4 @@ const view = (name) => (
   ]]
 
 )
-main(view, { model: 'Joe' })
+main(view, { model: 'Joe', module })
